@@ -1,1 +1,5 @@
-git add 명령어
+git add add.txt
+git commit -m "첫번째 커밋"
+git push origin main
+
+
